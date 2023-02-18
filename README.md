@@ -18,7 +18,8 @@ In addition, this page also has buttons that change design depending on user int
 
 <p>Desktop design preview</p>
 
-![Desktop design preview](../3-column-preview-card-component-main/Desktop_preview.png)<br><br>
+<img src="https://github.com/vzapola/3-column-preview-card/blob/master/Desktop_preview.png?raw=true">
+<br><br>
 
 <p>Mobile design preview
 
