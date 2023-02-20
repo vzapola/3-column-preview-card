@@ -20,13 +20,13 @@ This is a front-end coding challenge from <a href="https://www.frontendmentor.io
 
 <p>Desktop design preview</p>
 
-<img src="https://github.com/vzapola/3-column-preview-card/blob/master/Desktop_preview.png?raw=true">
+<img src="https://github.com/vzapola/3-column-preview-card/blob/master/assets/img/Desktop_preview.png?raw=true">
 <br><br>
 
-<p>Mobile design preview
+<p>Mobile design preview</p>
 
-<img src="https://github.com/vzapola/3-column-preview-card/blob/master/Mobile_preview.png?raw=true">
-</p><br><br>
+<img src="https://github.com/vzapola/3-column-preview-card/blob/master/assets/img/Mobile_preview.png?raw=true">
+<br><br>
 
 
 
